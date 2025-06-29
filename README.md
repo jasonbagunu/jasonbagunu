@@ -7,7 +7,7 @@ I'm an aspiring **Web Developer** with a focus on **UI/UX design**, and also exp
 - **Interests:** Web design, data visualization, user experience
 
 ### 🌱 Currently Learning
-- Frontend frameworks (like React)
+- Frontend frameworks - Figma
 - Data analysis tools and techniques
 
 ### 📫 Connect with me
