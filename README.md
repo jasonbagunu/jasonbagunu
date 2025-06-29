@@ -11,5 +11,5 @@ I'm an aspiring **Web Developer** with a focus on **UI/UX design**, and also exp
 - Data analysis tools and techniques
 
 ### 📫 Connect with me
-[Email](bagunujason9@gmail.com)
+[Email](mailto:bagunujason9@gmail.com)
 
