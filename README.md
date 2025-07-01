@@ -7,9 +7,10 @@ I'm an aspiring **Web Developer** with a focus on **UI/UX design**, and also exp
 - **Interests:** Web design, data visualization, user experience
 
 ### 🌱 Currently Learning
-- Frontend frameworks - Figma
+- Frontend frameworks - Figma  
 - Data analysis tools and techniques
 
-### 📫 Connect with me
-📧 [Email Me](mailto:bagunujason9@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/jason-bagunu-39652b372/) 
+### 📫 Connect with me  
+📧 [Email Me](mailto:bagunujason9@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/jason-bagunu-39652b372/)  
+📘 [Facebook](https://www.facebook.com/jason.bagunu.03)
