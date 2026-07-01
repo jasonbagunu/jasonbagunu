@@ -63,31 +63,24 @@ I'm an Information Technology student passionate about developing impactful digi
 # 📂 Featured Projects
 
 <details>
-<summary><b>🌍 BarangAI — AI-Powered Digital Twin for Smart Communities</b></summary>
+<summary><b>📷 Barcode-Based Attendance Management System</b></summary>
 
 <br>
 
-An AI-powered decision intelligence platform that helps Local Government Units simulate infrastructure projects, optimize budgets, identify vulnerable communities, and make data-driven decisions.
+A modern attendance management system that streamlines attendance tracking using barcode technology. Designed for schools and organizations, the system enables fast and accurate attendance recording while providing administrators with real-time monitoring and reporting.
 
-### Tech Stack
+### Features
 
-HTML • CSS • JavaScript • Firebase • Gemini AI • Google Maps Platform
+- 📷 Barcode Scanner Integration
+- 👥 Student & Employee Management
+- 📅 Real-Time Attendance Tracking
+- 📊 Attendance Reports & Analytics
+- 🔒 Admin Dashboard
+- 📁 Attendance History
 
-</details>
+**Tech Stack**
 
----
-
-<details>
-<summary><b>🌸 Perfume E-Commerce Website</b></summary>
-
-<br>
-
-A responsive e-commerce website featuring:
-
-- Shopping Cart
-- Product Management
-- Admin Dashboard
-- Order Management
+HTML • CSS • JavaScript • PHP • MySQL • Bootstrap
 
 </details>
 
